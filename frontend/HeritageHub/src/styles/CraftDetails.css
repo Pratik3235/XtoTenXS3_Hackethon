@@ -1,0 +1,39 @@
+.craft-details-container {
+    padding: 2rem;
+    max-width: 750px;
+    margin: 3rem auto;
+    background-color: #fefefe;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .craft-details-back {
+    display: inline-block;
+    margin-bottom: 1.5rem;
+    text-decoration: none;
+    color: #2a9d8f;
+    font-weight: 500;
+    transition: color 0.3s ease;
+  }
+  
+  .craft-details-back:hover {
+    color: #21867a;
+  }
+  
+  .craft-details-title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #264653;
+  }
+  
+  .craft-details-info {
+    margin-bottom: 0.8rem;
+    color: #444;
+    line-height: 1.6;
+  }
+  
+  .craft-details-info strong {
+    color: #222;
+  }
+  
